@@ -1,4 +1,4 @@
-# Configure Azure Provider
+# Configure Azure Provider  ADDEd CI CD
 terraform {
   required_providers {
     azurerm = {
